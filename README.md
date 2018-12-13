@@ -1,2 +1,2 @@
 # Assessment_1
-Progression of model creation from start to finish
+The finished model to submit for assessment 1
