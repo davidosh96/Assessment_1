@@ -13,7 +13,7 @@ Model.py - 		the model/program
 
 Agentframework.py - 	module which is used with model.py. This code is used to create the agents class and determines their behaviour within the environment.
 
-In.txt - 		file containing the environment code in the form of raster data (a DEM). This program reads in this data and it is used 			to display the environment with which the agents will interact. This could be replaced with a different raster data csv 			file.
+In.txt - 		file containing the environment code in the form of raster data (a DEM). This program reads in this data and it is used to display the environment with which the agents will interact. This could be replaced with a different raster data csv file.
 
 
 Before running the program, enter "%matplotlib qt" into the console in order to view the output as an animation in a pop-up window.
